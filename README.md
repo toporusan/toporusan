@@ -1,6 +1,6 @@
 <!-- ========= HEADER BANNER ========= -->
 <div align="center">
-  <img height="300" width="600" src="assets/3f013b85-697f-4959-8047-63f6752d061d.png"/>
+  <img height="500" width="700" src="assets/3f013b85-697f-4959-8047-63f6752d061d.png"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@ ML student • QA Engineer • FinTech • Mobile & API Testing
 </h3>
 
 <p>
-Tashkent, Uzbekistan • Open to opportunities
+Tashkent, Uzbekistan
 </p>
 
 <p>
@@ -32,9 +32,8 @@ Tashkent, Uzbekistan • Open to opportunities
 
 ## 👨‍💻 About Me
 
-I am currently studying Machine Learning and Data Science, focusing on model development, data analysis, and practical ML skills.
-At the same time, I work as a QA Engineer with 3+ years of commercial experience in FinTech products, testing mobile, web, and API-based systems.
-My background in quality assurance helps me build reliable, well-tested, and production-ready ML solutions with strong analytical thinking and attention to detail.
+I work as a QA Engineer with over 3 years of commercial experience in FinTech projects, testing mobile, web, and API-based systems.
+I specialize in ensuring product quality, building stable testing processes, and delivering reliable, production-ready solutions. I have strong analytical thinking, attention to detail, and a user-focused mindset.
 
 ### 🔧 QA Expertise
 - 📱 Mobile testing (Android / iOS / Web)
@@ -81,6 +80,6 @@ Postman • Swagger • Charles • Proxyman • Jira • Confluence • DBeaver
 
 <div align="center">
 
-### 🚀 Open to QA / Automation / FinTech roles
+### 📈 Always learning • Always improving • Always testing
 
 </div>
