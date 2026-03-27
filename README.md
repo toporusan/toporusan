@@ -32,8 +32,8 @@ Tashkent, Uzbekistan
 
 ## 👨‍💻 About Me
 
-I work as a QA Engineer with over 3 years of commercial experience in FinTech projects, testing mobile, web, and API-based systems.
-I specialize in ensuring product quality, building stable testing processes, and delivering reliable, production-ready solutions. I have strong analytical thinking, attention to detail, and a user-focused mindset.
+I am a QA Engineer with less than 1 year of commercial experience in FinTech projects, working with mobile, web, and API-based systems.
+I focus on ensuring product quality, building reliable testing processes, and delivering production-ready solutions. I have strong analytical skills, attention to detail, and a user-focused mindset.
 
 ### 🔧 QA Expertise
 - 📱 Mobile testing (Android / iOS / Web)
